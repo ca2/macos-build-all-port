@@ -1,1 +1,0 @@
-../common/nanosvg/nanosvgrast.h

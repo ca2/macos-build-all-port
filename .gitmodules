@@ -18,3 +18,7 @@
 	path = user-generation1
 	url = ../../cpp-port/port-user-generation1
 	branch = main
+[submodule "audio"]
+	path = audio
+	url = ../port-audio
+	branch = main
